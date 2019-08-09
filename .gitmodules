@@ -1,0 +1,19 @@
+[submodule "packages\\nreach-t3-vision"]
+	path = packages\\nreach-t3-vision
+	url = git@github.com:nreach/nreach-t3-vision.git
+[submodule "packages/nreach-base"]
+	path = packages/nreach-base
+	url = git@github.com:nreach/nreach-base.git
+	branch = master
+[submodule "packages/nreach-t3-base"]
+	path = packages/nreach-t3-base
+	url = git@github.com:nreach/nreach-t3-base.git
+	branch = master
+[submodule "packages/nreach-t3-data"]
+	path = packages/nreach-t3-data
+	url = git@github.com:nreach/nreach-t3-data.git
+	branch = master
+[submodule "packages/nreach-t3-vision"]
+	path = packages/nreach-t3-vision
+	url = git@github.com:nreach/nreach-t3-vision.git
+	branch = master
