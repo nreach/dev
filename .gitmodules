@@ -1,6 +1,3 @@
-[submodule "packages\\nreach-t3-vision"]
-	path = packages\\nreach-t3-vision
-	url = git@github.com:nreach/nreach-t3-vision.git
 [submodule "packages/nreach-base"]
 	path = packages/nreach-base
 	url = git@github.com:nreach/nreach-base.git
